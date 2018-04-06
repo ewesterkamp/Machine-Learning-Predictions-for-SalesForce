@@ -1,0 +1,43 @@
+,feature,importance
+0,NF_Days_Through_Qualified__c,0.126019617521
+1,NF_Days_Through_Closing__c,0.113575502614
+2,Amount,0.0970957726151
+3,NF_Rev_T24M_Category__c,0.0897775876555
+4,NF_Ratio_Qualified_To_Total_Days__c,0.0676799522607
+5,NF_Stage_Duration__c,0.0643020891869
+6,NF_Ratio_Validated_To_Total_Days__c,0.0588458792237
+7,NF_Ratio_Identified_To_Total_Days__c,0.0554523529274
+8,NF_Stage_Change_Count__c,0.0542667010232
+9,NF_Deal_Size_Category__c,0.0503617658295
+10,NF_Route__c_Reseller,0.0274252954826
+11,NF_Route__c_Fields Sales,0.0176717034045
+12,NF_Client_Size_Employee__c,0.0139835616333
+13,NF_Client_Rev_Mil__c,0.0121107549398
+14,NF_Region__c_Midwest,0.0106953659024
+15,MainCompetitors__c_Unknown,0.00947728712553
+16,NF_Region__c_Pacific,0.00866149274563
+17,NF_Region__c_Northwest,0.00860801438458
+18,NF_Subgroup__c_Exterior Accessories,0.00859796053159
+19,NF_Subgroup__c_Batteries & Accessories,0.00832230298114
+20,NF_Subgroup__c_Motorcycle Parts,0.00806497767146
+21,NF_Region__c_Southwest,0.00742230625534
+22,MainCompetitors__c_None,0.00736678077937
+23,NF_Group__c_Car Accessories,0.00702614587326
+24,NF_Group__c_Performance & Non-auto,0.0066945712417
+25,NF_Region__c_Southeast,0.00658518365058
+26,NF_Subgroup__c_Shelters & RV,0.00611858371748
+27,MainCompetitors__c_Known,0.00596727506491
+28,NF_Region__c_Mid-Atlantic,0.00596578201211
+29,NF_Region__c_Northeast,0.00577864495078
+30,NF_Subgroup__c_Replacement Parts,0.00572223599185
+31,NF_Subgroup__c_Garage & Car Care,0.0056858628104
+32,NF_Subgroup__c_Interior Accessories,0.00378678765802
+33,NF_Route__c_Telesales,0.00329617289385
+34,NF_Subgroup__c_Performance Parts,0.0030539021205
+35,NF_Route__c_Other,0.00300528037398
+36,NF_Subgroup__c_Towing & Hitches,0.0027392325908
+37,NF_Subgroup__c_Tires & Wheels,0.000867899795417
+38,NF_Group__c_Tires & Wheels,0.000771273249865
+39,NF_Route__c_Telecoverage,0.000651403116915
+40,NF_Group__c_Car Electronics,0.000289522458978
+41,NF_Subgroup__c_Car Electronics,0.000209215734739
